@@ -1,0 +1,29 @@
+{
+"paises":[
+	{"nombre": "COSTA RICA", "dim": "CRC", "bandera": "images/banderas/cr.png", "moneda": "images/colon.png", "valor": "1"},
+	{"nombre": "ESTADOS UNIDOS", "dim": "USD", "bandera": "images/banderas/usa.png", "moneda": "images/dolar.png", "valor": "0.00167392"},
+	{"nombre": "UNIÓN EUROPEA", "dim": "EUR", "bandera": "images/banderas/eur.png", "moneda": "images/euro.png", "valor": "0.00147026"},	
+	{"nombre": "BERMUDA", "dim": "BER", "bandera": "images/banderas/bermuda.png", "moneda": "images/dolar.png", "valor": "0.00167273"},
+	{"nombre": "BRASIL", "dim": "BRA", "bandera": "images/banderas/brazil.png", "moneda": "images/real.png", "valor": "0.00643226"},
+	{"nombre": "BULGARIA", "dim": "BUL", "bandera": "images/banderas/bulgaria.png", "moneda": "images/lev.png", "valor": "0.00285871"},
+	{"nombre": "CANADÁ", "dim": "CAN", "bandera": "images/banderas/canada.png", "moneda": "images/can.png", "valor": "0.00225795"},
+	{"nombre": "CHILE", "dim": "CHI", "bandera": "images/banderas/chile.png", "moneda": "images/dolar.png", "valor": "1.15743"},
+	{"nombre": "CHINA", "dim": "CHN", "bandera": "images/banderas/china.png", "moneda": "images/yen.png", "valor": "0.0115354"},
+	{"nombre": "COLOMBIA", "dim": "COL", "bandera": "images/banderas/colombia.png", "moneda": "images/dolar.png", "valor": "5.46932"},
+	{"nombre": "CUBA", "dim": "CUB", "bandera": "images/banderas/cuba.png", "moneda": "images/dolar.png", "valor": "0.0443529"},
+	{"nombre": "REPUBLICA CHECA", "dim": "CZK", "bandera": "images/banderas/czech.png", "moneda": "images/corona.png", "valor": "0.0376956"},
+	{"nombre": "DINAMARCA", "dim": "DIN", "bandera": "images/banderas/denmark.png", "moneda": "images/coronaDan.png", "valor": "0.0109180"},
+	{"nombre": "REPUBLICA DOMINICANA", "dim": "DOM", "bandera": "images/banderas/dom.png", "moneda": "images/dom.png", "valor": "0.0845291"},
+	{"nombre": "EGIPTO", "dim": "EGY", "bandera": "images/banderas/egypt.png", "moneda": "images/egyptian.png", "valor": "0.0299647"},
+	{"nombre": "GUATEMALA", "dim": "GUA", "bandera": "images/banderas/guatemala.png", "moneda": "images/quetzal.png", "valor": "0.0129558"},
+	{"nombre": "HONG KONG", "dim": "HNK", "bandera": "images/banderas/hong-kong.png", "moneda": "images/dolarHon.png", "valor": "0.0131074"},
+	{"nombre": "JAPÓN", "dim": "JAP", "bandera": "images/banderas/japan.png", "moneda": "images/yen.png", "valor": "0.186538"},
+	{"nombre": "MÉXICO", "dim": "MEX", "bandera": "images/banderas/mexico.png", "moneda": "images/dolar.png", "valor": "0.0333200"},
+	{"nombre": "NICARAGUA", "dim": "NIC", "bandera": "images/banderas/nicaragua.png", "moneda": "images/cordoba.png", "valor": "0.0544334"},
+	{"nombre": "PANAMÁ", "dim": "PAN", "bandera": "images/banderas/panama.png", "moneda": "images/balboa.png", "valor": "0.00167494"},
+	{"nombre": "SUIZA", "dim": "ZWI", "bandera": "images/banderas/swaziland.png", "moneda": "images/franco.png", "valor": "0.00165409"},
+	{"nombre": "TURKIA", "dim": "TUR", "bandera": "images/banderas/turkey.png", "moneda": "images/dolar.png", "valor": "0.00585146"},
+	{"nombre": "GRAN BRETAÑA", "dim": "GBR", "bandera": "images/banderas/united-kingdom.png", "moneda": "images/libra.png", "valor": "0.00132145"},
+	{"nombre": "VENEZUELA", "dim": "VEN", "bandera": "images/banderas/venezuela.png", "moneda": "images/bolivar.png", "valor": "0.0166976"}
+]
+}
